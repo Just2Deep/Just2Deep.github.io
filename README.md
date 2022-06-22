@@ -1,8 +1,13 @@
 # deep.io
 Projects Showcase
 
-Credits:
+Website to showcase all of my data analysis projects.
 
+Credits:
+	
+	Template:
+		HTML5 UP (html5up.net)
+		
 	Images:
 		Unsplash (unsplash.com)
 
