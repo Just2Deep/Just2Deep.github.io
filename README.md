@@ -3,7 +3,11 @@ Projects Showcase
 
 Website to showcase all of my data analysis projects.
 
-Credits:
+There are multiple projects with SQL, python , excel and also tableau.
+
+Using these technologies/tools, built good visulisations and proper data.
+
+Credits for website:
 	
 	Template:
 		HTML5 UP (html5up.net)
